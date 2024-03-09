@@ -30,6 +30,11 @@ Rust code, how to trigger react to callbacks, get and set properties and use bas
      cargo run
      ```
 
+5. Release as msi installer for windows
+    ```
+    C:\Program Files (x86)\WiX Toolset v3.14\bin
+    ```
+
 We recommend using an IDE for development, along with our [LSP-based IDE integration for `.slint` files](https://github.com/slint-ui/slint/blob/master/tools/lsp/README.md). You can also load this project directly in [Visual Studio Code](https://code.visualstudio.com) and install our [Slint extension](https://marketplace.visualstudio.com/items?itemName=Slint.slint).
 
 ## Next Steps

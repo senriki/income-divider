@@ -17,3 +17,6 @@ slint-build = "1.4"
 [package.metadata.bundle]
 name = "income divider"
 identifier = "io.github.senriki.income-divider"
+
+[package.metadata.wix]
+eula = false
