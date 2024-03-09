@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Senriki"]
 edition = "2021"
 build = "build.rs"
+description = "DESKTOP APP that divide income"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -15,3 +16,4 @@ slint-build = "1.4"
 
 [package.metadata.bundle]
 name = "income divider"
+identifier = "io.github.senriki.income-divider"
